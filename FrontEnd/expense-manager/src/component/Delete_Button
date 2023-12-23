@@ -1,0 +1,9 @@
+const DeleteButton = () => {
+    return(
+    <div>
+        <button type="button">Delete</button>
+    </div>
+    )
+}
+
+export default DeleteButton;
